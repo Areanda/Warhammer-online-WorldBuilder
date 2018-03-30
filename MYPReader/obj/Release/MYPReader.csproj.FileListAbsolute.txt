@@ -1,0 +1,6 @@
+F:\dev\solutions\WorldBuilder\MYPReader\bin\Release\MYPReader.dll
+F:\dev\solutions\WorldBuilder\MYPReader\bin\Release\MYPReader.pdb
+F:\dev\solutions\WorldBuilder\MYPReader\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\dev\solutions\WorldBuilder\MYPReader\obj\Release\MYPReader.dll
+F:\dev\solutions\WorldBuilder\MYPReader\obj\Release\MYPReader.pdb
+F:\dev\solutions\WorldBuilder\MYPReader\obj\Release\MYPReader.csprojResolveAssemblyReference.cache

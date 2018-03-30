@@ -1,0 +1,35 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\bin\Debug\ScintillaNET.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\bin\Debug\settings.ini
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\bin\Debug\WorldBuilder.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\bin\Debug\WorldBuilder.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\bin\Debug\WorldBuilder.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.Controls.AssetsView.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.Controls.BinView.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.Controls.CSVViewer.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.Controls.TextView.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.frmBuilder.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.frmHashTest.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.frmName.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\WARMain\WARServer\WorldBuilder\obj\Debug\WorldBuilder.pdb
+F:\dev\solutions\WorldBuilder\bin\Debug\WorldBuilder.exe.config
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.exe
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.pdb
+F:\dev\solutions\WorldBuilder\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\dev\solutions\WorldBuilder\bin\Debug\ScintillaNET.dll
+F:\dev\solutions\WorldBuilder\bin\Debug\settings.ini
+F:\dev\solutions\WorldBuilder\bin\Debug\WorldBuilder.exe
+F:\dev\solutions\WorldBuilder\bin\Debug\WorldBuilder.pdb
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.csprojResolveAssemblyReference.cache
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.Controls.AssetsView.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.Controls.BinView.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.Controls.CSVViewer.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.Controls.TextView.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.frmBuilder.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.frmHashTest.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.frmName.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.Properties.Resources.resources
+F:\dev\solutions\WorldBuilder\obj\Debug\WorldBuilder.csproj.GenerateResource.Cache
